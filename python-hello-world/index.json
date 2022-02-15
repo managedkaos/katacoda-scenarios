@@ -1,6 +1,6 @@
 {
-  "title": "New Scenario Template",
-  "description": "A simple scenario example.",
+  "title": "Python 'Hello, Universe'",
+  "description": "Run the classic 'Hello' program using Python.",
   "difficulty": "Beginner",
   "time": "3 minutes",
   "details": {
@@ -24,12 +24,17 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+        "client": [
+            { "file": "*", "target": "~/" }
+        ]
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "python:3.8"
   }
 }
