@@ -1,8 +1,6 @@
 # Heading for Step 2
 
-This is some text.
+Run the `hello.py` script.
 
-Here's a single line of runnable code:
-
-`printf 'Jello, world!\n\n'`{{execute}}
+In the terminal, enter `python hello.py`{{execute}}
 
