@@ -27,6 +27,9 @@
         ]
     }
   },
+  "files": [
+      "hello.py"
+  ],
   "environment": {
     "uilayout": "editor-terminal"
   },
