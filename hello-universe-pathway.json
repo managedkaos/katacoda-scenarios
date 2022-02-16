@@ -1,5 +1,16 @@
 {
   "title": "Hello, Universe",
   "description": "Get familiar with Katacoda and the platforms it supports.",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "python-hello-universe",
+      "title": "Python 'Hello, Universe'",
+      "description": "Print a welcome message using Python."
+    },
+    {
+      "course_id": "bash-hello-universe",
+      "title": "Bash 'Hello, Universe'",
+      "description": "Print a welcome message using Bash."
+    }
+  ]
 }
