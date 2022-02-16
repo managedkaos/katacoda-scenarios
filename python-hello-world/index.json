@@ -27,9 +27,7 @@
             ]
         }
     },
-    "files": [
-        "~/hello.py"
-    ],
+    "files": [],
     "environment": {
         "uieditorpath": "/root/",
         "hideHiddenFiles": true,
