@@ -1,8 +1,8 @@
 # 'Hello, Universe' with Python
-Run the classic 'Hello' program using Python.
+Run the classic 'Hello' script using Python.
 
 ## Description
-This scenario introduces the Katakoda environment.  The goal is to run a Python program that prints a welcome message.
+This scenario introduces the Katakoda environment.  The goal is to run a Python script that prints a welcome message.
 
 ## Learning Objective
 - Review files in the Katakoda editor
