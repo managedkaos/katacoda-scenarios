@@ -1,0 +1,13 @@
+# 'Hello, Universe' with Bash
+Run the classic 'Hello' script using Bash.
+
+## Description
+This scenario introduces the Katakoda environment.  The goal is to run a Bash script that prints a welcome message.
+
+## Learning Objective
+- Review files in the Katakoda editor
+- Run commands int he Katakoa terminal
+- Run a Bash script that prints a message
+
+## Prerequisite Skills
+You should be comfortable running commands in a terminal.

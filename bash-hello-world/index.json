@@ -1,0 +1,39 @@
+{
+    "title": "Bash 'Hello, Universe'",
+    "description": "Run the classic 'Hello' script using Bash.",
+    "difficulty": "Beginner",
+    "time": "3 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2",
+                "text": "step2.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "code": "foreground.sh"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "assets": {
+            "client": [
+                { "file": "hello.sh", "target": "~/" }
+            ]
+        }
+    },
+    "files": [],
+    "environment": {
+        "uieditorpath": "/root/",
+        "hideHiddenFiles": true,
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu:2004"
+    }
+}
