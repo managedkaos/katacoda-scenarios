@@ -1,6 +1,6 @@
 {
     "title": "Bash 'Hello, Universe'",
-    "description": "Run the classic 'Hello' script using Bash.",
+    "description": "Print a welcome message using Bash.",
     "difficulty": "Beginner",
     "time": "3 minutes",
     "details": {

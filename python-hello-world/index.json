@@ -1,6 +1,6 @@
 {
     "title": "Python 'Hello, Universe'",
-    "description": "Run the classic 'Hello' script using Python.",
+    "description": "Print a welcome message using Python.",
     "difficulty": "Beginner",
     "time": "3 minutes",
     "details": {
