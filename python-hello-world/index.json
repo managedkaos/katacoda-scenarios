@@ -23,12 +23,12 @@
         },
         "assets": {
             "client": [
-                { "file": "*", "target": "~/" }
+                { "file": "hello.py", "target": "~/" }
             ]
         }
     },
     "files": [
-        "hello.py"
+        "~/hello.py"
     ],
     "environment": {
         "uieditorpath": "/root/",
